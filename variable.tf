@@ -34,3 +34,4 @@ variable "linux_ami" {
 variable "windows_ami" {
   description = "AMI ID for Windows Server instance"
   default     = "ami-0e0ff68cb8e9a188a" # Windows Server 2019 in ap-south-1
+}
